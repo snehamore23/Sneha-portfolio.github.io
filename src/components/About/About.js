@@ -20,28 +20,40 @@ function About() {
             src="/man-svgrepo-com.svg"
             alt="man-svgrepo"
           />
-        </ScrollAnimation>
-          <div className="AboutBio">
-            <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
-            </ScrollAnimation>
+       </ScrollAnimation>
 
-            <br /><br />
-            
-            <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
-            </ScrollAnimation>
+<div className="AboutBio">
+  <ScrollAnimation animateIn="fadeInLeft">
+    Hello! My name is <strong>Sneha More</strong>. I am a passionate
+    <strong> Full Stack MERN Developer</strong> and an Information Technology
+    student with a strong interest in building modern, responsive, and
+    user-friendly web applications. I enjoy transforming ideas into scalable
+    digital solutions using <strong>MongoDB, Express.js, React.js, and Node.js</strong>.
+  </ScrollAnimation>
 
-            <br /><br />
+  <br /><br />
 
-            <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
-              <div className="tagline2">
-                I have become confident using the following technologies:
-              </div>
-            </ScrollAnimation>
-            
+  <ScrollAnimation animateIn="fadeInLeft">
+    Throughout my academic journey, I have developed several web applications
+    and completed hands-on projects using React.js, Node.js, Express.js,
+    MongoDB, JavaScript, HTML, and CSS. I have also completed a
+    <strong> Data Science Internship</strong>, where I worked on machine
+    learning models, data analysis, and deploying applications using
+    <strong> Streamlit</strong>. In addition, I continuously strengthen my
+    problem-solving skills through Java and Data Structures & Algorithms.
+  </ScrollAnimation>
+
+  <br /><br />
+
+  <ScrollAnimation animateIn="fadeInLeft">
+    I am a quick learner who enjoys collaborating with teams, exploring new
+    technologies, and solving real-world challenges through software
+    development. My goal is to contribute to innovative projects while growing
+    as a Full Stack Developer and creating impactful digital experiences.
+    <div className="tagline2">
+      I have become confident using the following technologies:
+    </div>
+  </ScrollAnimation>
 
             <Technologies>
               {stackList.map((stack, index) => (
