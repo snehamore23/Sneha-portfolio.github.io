@@ -6,7 +6,6 @@ import {
   HeroWrapper,
   HeroLeft,
   HeroRight,
-  Image,
   ScrollDown,
   ScrollLink,
 } from "./HeroElements";
