@@ -15,7 +15,45 @@ export const ProjectList = [
     demo_url: "https://easy-rent-nine.vercel.app/",
   },
 
+ {
+  img: "/placement-pro.png",
+  title: "Placement Pro",
+  description:
+    "A responsive React-based placement prediction application that enables students to enter academic details, validate inputs, and receive placement predictions through an intuitive and user-friendly interface.",
+  tech_stack: [
+    "React.js",
+    "Vite",
+    "CSS",
+    "React Router DOM",
+    "JavaScript",
+    "JSX",
+    "useState",
+    "Form Validation",
+    "Responsive Design"
+  ],
+  github_url: "https://github.com/snehamore23/Mentor-place-REACT-icp13.git",
+  demo_url: "https://mentor-place-react-icp13.vercel.app/",
+},
+
   {
+  img: "/trek-maharashtra.png",
+  title: "Trek Maharashtra",
+  description:
+    "A responsive travel and trekking website showcasing Maharashtra's popular forts, trekking destinations, and travel guides with an interactive user interface and smooth navigation.",
+  tech_stack: [
+    "React.js",
+    "Vite",
+    "JavaScript",
+    "CSS",
+    "React Router DOM",
+    "JSX",
+    "useState",
+    "Responsive Design"
+  ],
+  github_url: "https://github.com/snehamore23/trek-maharashtra-html-css-js.git", // Replace with your repository
+  demo_url: " https://trek-maharashtra.netlify.app/", // Replace with your deployed URL
+},
+{
     img: "/placement-prediction.png",
     title: "Student Placement Prediction",
     description:
@@ -29,26 +67,6 @@ export const ProjectList = [
     ],
     github_url: "https://github.com/snehamore23/student-placement-prediction", // Replace if different
     demo_url: "", // Add Streamlit URL if deployed
-  },
-
-  {
-    img: "/greenleaf.png",
-    title: "GreenLeaf Nursery",
-    description:
-      "A responsive nursery website showcasing plants, gardening products, and services with a modern and attractive UI.",
-    tech_stack: ["HTML", "CSS", "JavaScript"],
-    github_url: "https://github.com/snehamore23/GreenLeaf-Nursery", // Replace if different
-    demo_url: "", // Add Netlify URL
-  },
-
-  {
-    img: "/alankar.png",
-    title: "Alankar Jewellers",
-    description:
-      "A responsive jewellery website with elegant UI design, product showcase, and smooth navigation.",
-    tech_stack: ["HTML", "CSS", "JavaScript"],
-    github_url: "https://github.com/snehamore23/Alankar-Jewellers", // Replace if different
-    demo_url: "", // Add Netlify/Vercel URL
   },
 
   {
