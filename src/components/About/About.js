@@ -22,7 +22,7 @@ function About() {
 <div className="AboutBio">
   <ScrollAnimation animateIn="fadeInLeft">
     Hello! My name is <strong>Sneha More</strong>. I am a passionate
-    <strong> Full Stack MERN Developer</strong> and an Information Technology
+    <strong> Full Stack MERN Developer..</strong> and an Information Technology
     student with a strong interest in building modern, responsive, and
     user-friendly web applications. I enjoy transforming ideas into scalable
     digital solutions using <strong>MongoDB, Express.js, React.js, and Node.js</strong>.
